@@ -1,5 +1,5 @@
 /**
-*Author: Trevor Nichelson 
+*Author: Trevor Nichelson and David Gross
 *Date: 01/25/2018
 *
 * This program prints my name.
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-	printf("Trevor Nichelson!\n");
+	printf("Trevor Nichelson and David Gross!\n");
 
 	return 0;
 }
